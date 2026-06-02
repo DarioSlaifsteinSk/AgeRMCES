@@ -1,4 +1,4 @@
-# DegMPC
+# AgeMCES
 
 <img src="images/FLXNconcept.png" alt="FLEXINet Conceptual Schematic" width="400"/>
 

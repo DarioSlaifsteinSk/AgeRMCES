@@ -1,7 +1,5 @@
 # AgeMCES
 
-<img src="images/FLXNconcept.png" alt="FLEXINet Conceptual Schematic" width="400"/>
-
 **‘The aim of FLEXINet is a system that accelerates the energy transition. We hope to make a substantial contribution to reaching climate targets by cleverly combining various techniques – think of blending recycled batteries with flexible heat pumps and the charging of electric cars.’**
 
 ## Description

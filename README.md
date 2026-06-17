@@ -55,15 +55,17 @@ Cite as:
 ```bibtex
 @article{Slaifstein2026,
    author = {Darío Slaifstein and Gautham Ram Chandra Mouli and Laura Ramirez-Elizondo and Pavol Bauer},
-   doi = {10.1016/J.APENERGY.2026.127402},
-   issn = {0306-2619},
+   doi = {10.1016/J.EST.2026.122889},
+   issn = {2352-152X},
    journal = {Journal of Energy Storage},
-   month = {4},
-   pages = {127402},
+   keywords = {Battery degradation,Energy management,Multi-carrier energy system},
+   month = {9},
+   pages = {122889},
    publisher = {Elsevier},
-   title = {Ageing-aware Energy Management for Residential Multi-Carrier Energy Systems},
-   volume = {408},
-   url = {https://linkinghub.elsevier.com/retrieve/pii/S0306261926000541},
+   title = {Ageing-aware energy management for residential multi-carrier energy systems},
+   volume = {173},
+   url = {https://www.sciencedirect.com/science/article/pii/S2352152X26025533?via%3Dihub},
    year = {2026}
 }
+
 ```
